@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+ background:red !important;
+}
+.nav .custom-top-master.navbar-collapse{
+ position:absolute;
+ background:red;
+}
